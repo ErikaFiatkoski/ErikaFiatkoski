@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, my name is Erika 😄
 
 <!--
 **ErikaFiatkoski/ErikaFiatkoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+__Looking for opportunities and collabaration in projects!__ 📌
+
+## About Me 🌺
+- Age: 21 years
+- Pronouns: She/Her
+- Nationality: Brazilian
+- Studying Computer Science
+
+ ### I Am/Will:
+- [ ]Front End Dev  
+- [ ]Back End Dev 
+- [X]Full Stack Dev ~~i guess...~~
+
+### Currently learning 📖
+- Java
+- HTML
+- QA (Quality Assurance)
+
+
+### How to reach Me
+* email: erika.fiatkoski06@gmail.com
+* linkedin: https://www.linkedin.com/in/erikafiatkoski/
