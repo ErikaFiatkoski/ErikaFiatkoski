@@ -12,11 +12,6 @@ __Looking for opportunities and collabaration in projects!__ 📌
 - Nationality: Brazilian
 - Studying Computer Science
 
- ### I Am/Will:
-- [ ]Front End Dev  
-- [ ]Back End Dev 
-- [X]Full Stack Dev ~~i guess...~~
-
 ### Currently learning 📖
 - Java
 - HTML
