@@ -3,7 +3,7 @@
   <em>
  :cherry_blossom: Olá, meu nome é Erika Fiatkoski :cherry_blossom:  <br>   
      Tenho 22 anos, sou brasileira e estou cursando Ciência da Computação. <br>
-     Sou Dev <b>Back-End</b> Junior, porém também sei o básico de HTML e CSS. <br>
+     Atualmente aprendendo HTML5, CSS3, Bootstrap, Javascript e Java. <br>
      Meus pronomes são <b>Ela/dela</b>.  
   </em> 
   
@@ -14,22 +14,14 @@
 </p>
 
 ***
-### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ErikaFiatkoski">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErikaFiatkoski&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErikaFiatkoski&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/ErikaFiatkoski/github-stats">
+<img src="https://github.com/ErikaFiatkoski/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/ErikaFiatkoski/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 </p>
 
