@@ -6,7 +6,7 @@
 <p align="center">
   <em>
  :cherry_blossom: Olá, meu nome é Erika Fiatkoski :cherry_blossom:  <br>   
-     Tenho 23 anos, sou brasileira e estou cursando Ciência da Computação. <br>
+     Tenho 24 anos, sou brasileira e estou cursando Ciência da Computação. <br>
     Atualmente dividida entre a area de desenvolvimento de games e a area de front-end. <br> 
   </em> 
   
